@@ -1,2 +1,2 @@
 # HTML-Portfolio
-Me bored
+I'm learning
